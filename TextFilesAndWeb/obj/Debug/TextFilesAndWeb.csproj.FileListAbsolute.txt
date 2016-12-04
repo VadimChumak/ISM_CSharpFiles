@@ -1,0 +1,6 @@
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\TextFilesAndWeb\bin\Debug\TextFilesAndWeb.exe.config
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\TextFilesAndWeb\bin\Debug\TextFilesAndWeb.exe
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\TextFilesAndWeb\bin\Debug\TextFilesAndWeb.pdb
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\TextFilesAndWeb\obj\Debug\TextFilesAndWeb.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\TextFilesAndWeb\obj\Debug\TextFilesAndWeb.exe
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\TextFilesAndWeb\obj\Debug\TextFilesAndWeb.pdb

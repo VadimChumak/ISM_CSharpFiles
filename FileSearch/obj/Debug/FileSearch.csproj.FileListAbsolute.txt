@@ -1,0 +1,6 @@
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileSearch\bin\Debug\FileSearch.exe.config
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileSearch\bin\Debug\FileSearch.exe
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileSearch\bin\Debug\FileSearch.pdb
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileSearch\obj\Debug\FileSearch.exe
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileSearch\obj\Debug\FileSearch.pdb
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileSearch\obj\Debug\FileSearch.csprojResolveAssemblyReference.cache

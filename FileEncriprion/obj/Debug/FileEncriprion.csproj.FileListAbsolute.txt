@@ -1,0 +1,6 @@
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileEncriprion\bin\Debug\FileEncriprion.exe.config
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileEncriprion\bin\Debug\FileEncriprion.exe
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileEncriprion\bin\Debug\FileEncriprion.pdb
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileEncriprion\obj\Debug\FileEncriprion.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileEncriprion\obj\Debug\FileEncriprion.exe
+C:\Users\vadim\Documents\Visual Studio 2012\Projects\CSharpFiles\FileEncriprion\obj\Debug\FileEncriprion.pdb
